@@ -2,9 +2,8 @@
 
 
 
-45e6a9d---------+-------------------------------------------|
-45e6a9d source  | git:https://notabug.org/cage/orizuru-orm.git   |
-45e6a9d commit  |   |
-45e6a9d systems | orizuru-orm |
-45e6a9d---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://notabug.org/cage/orizuru-orm.git |
+| commit  | 45e6a9d                                      |
+| systems | orizuru-orm                                  |
+|---------+----------------------------------------------|

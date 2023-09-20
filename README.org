@@ -4,6 +4,6 @@
 
 |---------+----------------------------------------------|
 | source  | git:https://notabug.org/cage/orizuru-orm.git |
-| commit  | 45e6a9d                                      |
+| commit  | 7f1f9c7                                      |
 | systems | orizuru-orm                                  |
 |---------+----------------------------------------------|
